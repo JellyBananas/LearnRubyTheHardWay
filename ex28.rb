@@ -1,0 +1,21 @@
+#習題 28: 布林（Boolean）表示式練習
+p true and true
+p false and true
+p ((1 == 1)and(2 == 1))
+p ("test" == "test")
+p (1 == 1 or 2 != 1)
+p (true and 1 == 1)
+p (false and 0 != 0)
+p (true or 1!= 1)
+p ("test" == "testing")
+p (1 != 0 and 2 == 1)
+p ("test" != "testing")
+p ("test" == 1)
+p (not (true and false))
+p (not (1 == 1 and 0 != 1))
+p (not (10 == 1 or 1000 == 1000))
+p (not (1!=10 or 3==4))
+p (not ("testing" == "testing" and "Zed" == "cool guy"))
+p 1==1 and not ("testing" ==1 or 1 ==0)
+p "chunky" == "bacon" and not (3 ==4 or 3==3)
+p 3==3 and not ("testing" and "testing" or "Ruby" == "Fun")
